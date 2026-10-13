@@ -18,3 +18,4 @@ git log --oneline # el historial, un commit por línea
 ## Vuelvo a la practica 1
 
 - `git log--oneline`: el historial, un commit por línea
+- `git commit-am "mensaje"`: add y commit de lo ya seguido
