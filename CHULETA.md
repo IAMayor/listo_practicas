@@ -13,4 +13,8 @@ git diff # ¿qué he cambiado exactamente?
 git add CHULETA.md # prepara ese fichero        
 git commit -m "Añade..."  # la foto, con un mensaje
 git push # súbelo a tu fork                  
-git log --oneline # el historial, un commit por línea        
+git log --oneline # el historial, un commit por línea
+
+## Vuelvo a la practica 1
+
+- `git log--oneline`: el historial, un commit por línea
