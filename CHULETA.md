@@ -28,3 +28,4 @@ git log --oneline # el historial, un commit por línea
 ## Me faltaba para la práctica
 - `git diff`: lo que has cambiado y aún no has preparado
 - `git diff --staged`: lo que ya está preparado
+- `git switch -c <rama>`: crea una rama
