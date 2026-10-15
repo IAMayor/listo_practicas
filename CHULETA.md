@@ -24,3 +24,7 @@ git log --oneline # el historial, un commit por línea
 - Atajos de teclado: mira ATAJOS.md
 - `git revert HEAD`: deshace el último commit con otro commit
 - `git fetch`: descarga lo nuevo sin tocar tus ficheros
+
+## Me faltaba para la práctica
+- `git diff`: lo que has cambiado y aún no has preparado
+- `git diff --staged`: lo que ya está preparado
