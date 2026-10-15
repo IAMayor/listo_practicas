@@ -23,3 +23,4 @@ git log --oneline # el historial, un commit por línea
 - `git restore <fichero>`: descarta lo que no has guardado
 - Atajos de teclado: mira ATAJOS.md
 - `git revert HEAD`: deshace el último commit con otro commit
+- `git fetch`: descarga lo nuevo sin tocar tus ficheros
